@@ -1,0 +1,7 @@
+C:\Users\moshe\source\repos\NewConect4\bin\Debug\NewConect4.exe.config
+C:\Users\moshe\source\repos\NewConect4\bin\Debug\NewConect4.exe
+C:\Users\moshe\source\repos\NewConect4\bin\Debug\NewConect4.pdb
+C:\Users\moshe\source\repos\NewConect4\obj\Debug\NewConect4.csprojAssemblyReference.cache
+C:\Users\moshe\source\repos\NewConect4\obj\Debug\NewConect4.csproj.CoreCompileInputs.cache
+C:\Users\moshe\source\repos\NewConect4\obj\Debug\NewConect4.exe
+C:\Users\moshe\source\repos\NewConect4\obj\Debug\NewConect4.pdb
